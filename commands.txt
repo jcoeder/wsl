@@ -1,0 +1,8 @@
+#Start default WSL instance
+wsl
+
+#List availale instances
+wsl --list
+
+#Launch a specific distribution
+wsl -d kali-linux
